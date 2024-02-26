@@ -27,14 +27,5 @@ services:
     volumes:
       - ./mock_server:/app
 
-#  test-env:
-#    build:
-#      context: ./tests
-#      dockerfile: Dockerfile
-#    container_name: test-env
-#    volumes:
-#      - ./tests:/app
-
-
 volumes:
   influxdb-data:
