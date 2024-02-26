@@ -1,8 +1,0 @@
-pytest
-pytest-asyncio
-pydantic
-influxdb-client
-locust
-testinfra
-
-

@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException, Query, Depends
+from typing import List, Dict, Union, Optional
+
 from pydantic import BaseModel
-from typing import Optional, List, Dict, Callable, Union
 
 app = FastAPI()
 

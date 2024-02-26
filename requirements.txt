@@ -1,0 +1,11 @@
+pytest
+pytest-asyncio
+pydantic
+influxdb-client
+locust
+testinfra
+fastapi
+httpx
+assertpy=>1.1
+
+
