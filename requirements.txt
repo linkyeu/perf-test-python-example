@@ -7,5 +7,6 @@ testinfra
 fastapi
 httpx
 assertpy=>1.1
+requests
 
 
